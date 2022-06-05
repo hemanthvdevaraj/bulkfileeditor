@@ -1,0 +1,5 @@
+com\playwire\file\image\infoeditor\ImageFileReader.class
+com\playwire\file\mp3\infoeditor\Mp3FileNameChanger.class
+com\playwire\file\mp3\infoeditor\ReadMp3Description.class
+com\playwire\file\boot\FileBootApplication.class
+com\playwire\file\mp3\infoeditor\AuthorAlbumFileReader.class
